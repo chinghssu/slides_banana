@@ -1,0 +1,36 @@
+# 作業系統檔案
+.DS_Store
+Thumbs.db
+
+# 編輯器設定
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 暫存檔案
+*.tmp
+*.log
+
+# Node.js (如果未來需要)
+node_modules/
+package-lock.json
+yarn.lock
+
+# 環境變數檔案（如果未來需要）
+.env
+.env.local
+.env.production
+
+# 建置輸出（如果未來需要）
+dist/
+build/
+
+# 測試檔案
+coverage/
+*.test.js
+
+# 其他
+.cache/
+*.zip

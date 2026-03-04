@@ -1,0 +1,112 @@
+Tone: "Professional, warm, friendly, approachable"
+
+Color_Palette:
+  Base: "#FFFFFF (pure white)"
+  Primary: "#0066CC (FamilyMart signature blue)"
+  Secondary: "#FFD700 (FamilyMart warm yellow)"
+  Text_Color: "#333333 (dark gray for readability)"
+  Accent: "#00AA88 (fresh teal for highlights)"
+
+Typography:
+  Heading: 
+    - Font: "Bold sans-serif (Helvetica, Inter, or similar)"
+    - Size: "Large and prominent"
+    - Weight: "700 (Bold)"
+    - Color: "#0066CC or #333333"
+  
+  Body_Text:
+    - Font: "Gothic font or clean sans-serif"
+    - Size: "Medium, comfortable reading size"
+    - Weight: "400 (Regular)"
+    - Line_Height: "1.6 for readability"
+    - Color: "#333333"
+
+Layout_Rules:
+  Logo_Placement: 
+    - "FamilyMart logo in top-left or top-center on every slide"
+    - "Size: 80-100px width, maintain aspect ratio"
+  
+  Grid_System:
+    - "Flexible grid with generous whitespace"
+    - "60-40 or 50-50 split for content-image layouts"
+    - "20-30px padding from edges"
+  
+  Whitespace:
+    - "Deliberately use negative space"
+    - "Don't crowd elements - let them breathe"
+    - "Minimum 40px between major sections"
+  
+  Visual_Style:
+    - "Flat illustration style (2D, no shadows)"
+    - "Friendly, diverse character designs"
+    - "Simple geometric shapes for backgrounds"
+    - "Diagonal or angular color divisions"
+    - "Product photos with clean backgrounds"
+
+Common_Elements:
+  Background_Patterns:
+    - "Dual-color diagonal splits (blue-yellow)"
+    - "Geometric triangular divisions"
+    - "Soft gradients from primary to secondary colors"
+  
+  Illustrations:
+    - "Diverse age groups: young adults, families, seniors"
+    - "Natural, relatable poses and expressions"
+    - "Include products in character hands"
+    - "Warm, inviting scenarios"
+  
+  Icons_Graphics:
+    - "Flat design, 2-color maximum"
+    - "Rounded corners (8-12px radius)"
+    - "Consistent stroke width (2-3px)"
+  
+  Product_Display:
+    - "Clean, professional product shots"
+    - "Slight shadow or outline for depth"
+    - "Grouped by category when showing multiple items"
+
+Slide_Structure:
+  Opening_Slide:
+    - "Logo prominent at top"
+    - "Main visual: 3-4 young consumers with products"
+    - "Background: Blue-yellow diagonal split"
+    - "Atmosphere: Energetic, welcoming"
+  
+  Content_Slides:
+    - "Logo at top"
+    - "Main illustration/photo: 50-60% of space"
+    - "Text content: 30-40% of space"
+    - "Background: Geometric color blocks"
+  
+  Data_Slides:
+    - "Large numbers in bold (primary color)"
+    - "Supporting text in body font"
+    - "Minimal decorative elements"
+    - "Clean, professional appearance"
+  
+  Closing_Slide:
+    - "Full logo version"
+    - "Brand tagline: '攜手同行，打造便利生活新未來'"
+    - "Simple, powerful design"
+    - "Blue background with white text"
+
+Brand_Personality:
+  - "Approachable and friendly"
+  - "Professional but not corporate"
+  - "Family-oriented and inclusive"
+  - "Modern and tech-savvy"
+  - "Community-focused"
+
+Design_Principles:
+  - "Consistency: Use same colors and fonts throughout"
+  - "Clarity: One main message per slide"
+  - "Visual Hierarchy: Most important info is largest"
+  - "Balance: Even distribution of visual weight"
+  - "Harmony: Colors and elements work together"
+
+Technical_Specifications:
+  Aspect_Ratio: "16:9 (landscape)"
+  Resolution: "1920x1080 pixels minimum"
+  File_Format: "High-quality PNG or JPG"
+  Color_Mode: "RGB"
+  DPI: "150+ for print quality"

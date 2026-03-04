@@ -1,0 +1,161 @@
+Tone: "Modern, innovative, tech-forward, trustworthy"
+
+Color_Palette:
+  Base: "#FFFFFF (pure white)"
+  Primary: "#6366F1 (vibrant indigo)"
+  Secondary: "#EC4899 (energetic pink)"
+  Text_Color: "#1F2937 (deep gray for readability)"
+  Accent: "#10B981 (fresh emerald green)"
+  Background: "#F9FAFB (soft off-white)"
+
+Typography:
+  Heading: 
+    - Font: "Bold sans-serif (Inter, SF Pro, Helvetica Neue)"
+    - Size: "Large and impactful"
+    - Weight: "700-800 (Bold to ExtraBold)"
+    - Color: "#1F2937 or #6366F1"
+  
+  Body_Text:
+    - Font: "Clean sans-serif (Inter, System UI)"
+    - Size: "Medium, optimized for digital reading"
+    - Weight: "400-500 (Regular to Medium)"
+    - Line_Height: "1.6 for comfortable reading"
+    - Color: "#4B5563 (medium gray)"
+
+Layout_Rules:
+  Logo_Placement: 
+    - "Company logo in top-left corner on every slide"
+    - "Size: 120px width, maintain aspect ratio"
+    - "Optional: Add tagline below logo in small text"
+  
+  Grid_System:
+    - "Asymmetric grid with dynamic layouts"
+    - "70-30 or 60-40 splits for content-visual balance"
+    - "Minimum 40px padding from all edges"
+    - "Use golden ratio (1.618) for proportions"
+  
+  Whitespace:
+    - "Embrace negative space - less is more"
+    - "Minimum 50px between major content blocks"
+    - "Allow content to breathe with generous margins"
+    - "Use whitespace to guide visual hierarchy"
+  
+  Visual_Style:
+    - "Modern gradient overlays (subtle, not overwhelming)"
+    - "Glassmorphism effects for cards and panels"
+    - "Smooth rounded corners (12-16px radius)"
+    - "3D isometric illustrations for tech concepts"
+    - "Abstract geometric patterns as backgrounds"
+    - "High-quality product screenshots with soft shadows"
+
+Common_Elements:
+  Background_Patterns:
+    - "Gradient mesh backgrounds (indigo to pink)"
+    - "Subtle dot matrix patterns"
+    - "Abstract wave forms and flowing lines"
+    - "Geometric low-poly backgrounds"
+  
+  Illustrations:
+    - "Isometric 3D style for technology concepts"
+    - "Diverse, modern characters in tech environments"
+    - "Clean line art for icons and diagrams"
+    - "Abstract data visualization elements"
+  
+  Icons_Graphics:
+    - "Outlined icon style, 2px stroke"
+    - "24x24px or 32x32px standard sizes"
+    - "Duotone treatment (primary + accent colors)"
+    - "Consistent rounded caps and corners"
+  
+  Data_Visualization:
+    - "Modern chart styles with gradients"
+    - "Animated-style progress indicators"
+    - "Clean bar/line charts with minimal gridlines"
+    - "Use color to highlight key data points"
+
+Slide_Structure:
+  Opening_Slide:
+    - "Large, bold company wordmark centered"
+    - "Subtitle or tagline below"
+    - "Abstract gradient background"
+    - "Optional: Animated particle effect suggestion"
+    - "Atmosphere: Bold, confident, future-forward"
+  
+  Content_Slides:
+    - "Logo at top-left"
+    - "Main visual: 50-60% of space (left or right)"
+    - "Text content: 40-50% in complementary position"
+    - "Use cards with subtle shadows for content grouping"
+    - "Background: Clean white or subtle gradient"
+  
+  Data_Slides:
+    - "Large numbers in gradient text (primary to secondary)"
+    - "Supporting metrics in grid layout"
+    - "Clean, modern chart visualizations"
+    - "Minimal decoration, maximum clarity"
+  
+  Feature_Slides:
+    - "3-column layout for feature comparisons"
+    - "Icons above each feature description"
+    - "Balanced text and visual weight"
+    - "Consistent spacing between elements"
+  
+  Closing_Slide:
+    - "Large company logo centered"
+    - "Contact information or call-to-action"
+    - "Social media icons"
+    - "Thank you message in elegant typography"
+    - "Clean, professional finish"
+
+Brand_Personality:
+  - "Innovative and cutting-edge"
+  - "Trustworthy and reliable"
+  - "Human-centered and accessible"
+  - "Bold yet approachable"
+  - "Data-driven and transparent"
+
+Design_Principles:
+  - "Visual Hierarchy: Most important content is largest and most colorful"
+  - "Consistency: Maintain color palette and typography throughout"
+  - "Contrast: Ensure sufficient contrast for accessibility (WCAG AA)"
+  - "Alignment: Everything aligns to the grid system"
+  - "Repetition: Reuse design patterns for cohesion"
+  - "Proximity: Group related elements together"
+
+Animation_Suggestions:
+  - "Fade-in transitions for content reveals"
+  - "Slide-in from left/right for sequential content"
+  - "Scale and fade for emphasis on key points"
+  - "Subtle parallax effects for depth"
+  - "Note: These are suggestions for the visual style, not actual animations"
+
+Accessibility_Notes:
+  - "Color contrast ratio: minimum 4.5:1 for text"
+  - "Use icons AND text labels together"
+  - "Avoid color-only information encoding"
+  - "Ensure readable font sizes (minimum 16px for body)"
+  - "Provide alternative text descriptions for visuals"
+
+Technical_Specifications:
+  Aspect_Ratio: "16:9 (landscape, standard presentation)"
+  Resolution: "1920x1080 pixels (Full HD)"
+  File_Format: "High-quality PNG or JPG"
+  Color_Mode: "RGB"
+  DPI: "150+ for screen, 300+ for print"
+
+Use_Cases:
+  Investor_Pitch:
+    - Emphasis: "Bold data visualizations, growth metrics"
+    - Tone: "Confident, ambitious, evidence-based"
+  
+  Product_Launch:
+    - Emphasis: "Large product imagery, feature highlights"
+    - Tone: "Exciting, innovative, user-focused"
+  
+  Company_Overview:
+    - Emphasis: "Team photos, milestone timeline, values"
+    - Tone: "Professional, trustworthy, human"
+  
+  Technical_Documentation:
+    - Emphasis: "Clear diagrams, code snippets, architecture"
+    - Tone: "Precise, educational, systematic"
