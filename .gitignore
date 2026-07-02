@@ -34,3 +34,5 @@ coverage/
 # 其他
 .cache/
 *.zip
+.wrangler/
+.cloudflare-deploy/

@@ -1,5 +1,5 @@
 // Banana Pro 簡報生成器 - 主程式
-// 使用 Gemini 3 Pro Image API 生成簡報圖片
+// 使用 Gemini 3.1 Flash Image API 生成簡報圖片
 
 let generatedImages = [];
 let currentSlideData = [];
@@ -290,7 +290,7 @@ function updateProgress(current, total, message) {
 
 // 呼叫 Gemini API 生成圖片
 async function callGeminiAPI(prompt, apiKey, seed = null, referenceImages = []) {
-    const API_ENDPOINT = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-3-pro-image-preview:generateContent';
+    const API_ENDPOINT = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-image:generateContent';
 
     // 構建 parts 陣列
     const parts = [{ text: prompt }];
